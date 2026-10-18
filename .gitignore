@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# Generated reports / logs
+test-output/
+logs/
+report.html
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+/docs/
